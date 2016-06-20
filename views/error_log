@@ -1,0 +1,2 @@
+[26-May-2015 16:24:23 UTC] PHP Fatal error:  Class 'tnt\model\db' not found in /home/merdenoms/public_html/tntops/views/index.tmpl.php on line 6
+[26-May-2015 16:24:34 UTC] PHP Fatal error:  Class 'tnt\model\db' not found in /home/merdenoms/public_html/tntops/views/index.tmpl.php on line 6

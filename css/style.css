@@ -1,0 +1,75 @@
+/* c/r Srdjan Grebensek 2015 */ 
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,800,700,600italic,600&subset=latin,latin-ext); 
+
+
+body
+{
+font-family: 'Open Sans', sans-serif!important;
+}
+
+
+h1
+{
+font-weight: 300;
+margin: 20px 0px;
+}
+
+
+.header
+{
+margin-bottom: 30px;
+border-bottom: 1px solid #D8D8D8;
+padding-bottom: 20px;
+}
+
+
+.time
+{
+display: block; 
+width: 300px;
+height: 30px;
+padding: 5px;
+margin-bottom: 20px;
+}
+
+.btn
+{
+}
+
+
+
+table, th, td {
+                border: 1px solid black;
+                border-collapse: collapse;
+				font-size: 60px0px;
+            }
+            th, td {
+                padding: 5px;
+				font-size: 60px0px;
+            }
+            
+            th {
+                 background-color: orange;
+                 color: black;
+				 font-size: 60px0px;
+            }
+            
+.red {
+    background-color: red;
+    color: black;
+    font-weight: bold ;
+}
+
+.green {
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold ;
+}
+
+
+.footer
+{
+padding-top: 40px; 
+font-size: 14px;
+}
